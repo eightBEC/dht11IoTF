@@ -1,3 +1,4 @@
+#SRC http://www.uugear.com/portfolio/dht11-humidity-temperature-sensor-module/
 import RPi.GPIO as GPIO
 import time
 
